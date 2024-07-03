@@ -1,0 +1,62 @@
+.footer-container {
+  margin-right: 10px;
+  display: grid;
+  grid-template-columns: 50% 1fr 1fr 1fr;
+  margin-bottom: 145px;
+}
+
+.footer__form p {
+  margin-bottom: 33px;
+  font-size: 24px;
+}
+
+.input-block {
+  display: flex;
+  margin-bottom: 200px;
+}
+
+footer input {
+  width: 350px;
+  height: 40px;
+}
+
+footer button {
+  width: 70px;
+  background-color: black;
+  color: white;
+  font-family: jost;
+  font-size: 18px;
+  border: none; 
+  outline: none;
+}
+
+.social-media {
+  display: grid;
+  grid-template-columns: repeat(3, 90px);
+  column-gap: 16px;
+}
+
+.column h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.column p {
+  font-size: 16px;
+  margin-bottom: 13px;
+}
+
+.column .last-p {
+  margin-bottom: 27px;
+}
+
+.footer__signboard {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  margin-bottom: 63px;
+}
+
+.footer__signboard span {
+  color: rgb(226, 176, 19);
+}

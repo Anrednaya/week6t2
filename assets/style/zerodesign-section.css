@@ -1,0 +1,38 @@
+.zerodesign-section {
+  display: flex;
+  margin-bottom: 180px;
+}
+
+.zerodesign-section__image img {
+  width: 660px;
+  padding-top: 60px;
+  margin-right: 50px;
+}
+
+.zerodesign__textarea {
+}
+
+.zerodesign__textarea h1 {
+  font-size: 96px;
+  padding-bottom: 20px;
+}
+
+.zerodesign__textarea p {
+  font-size: 22px;
+  margin-bottom: 28px;
+  line-height: 27px;
+}
+
+.zerodesign__signboards .item-block {
+  display: flex;
+}
+
+.zerodesign__signboards .item {
+  background-color: black;
+  color: white;
+  padding: 9px 30px 9px 16px;
+  margin: 0 10px 8px 0;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}

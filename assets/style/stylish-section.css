@@ -1,0 +1,67 @@
+.stylish-section {
+  display: flex;
+  padding: 46px 0 116px 0;
+}
+
+.stylish-section__textarea {
+  width: 48%;
+}
+
+.stylish-section__signboard{
+  display: inline-block;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 116px;
+  width: 136px;
+  height: 20px;
+  background-color: rgb(226, 176, 19);
+  color: white;
+}
+
+.stylish-section__textarea h1{
+  font-size: 96px;
+  padding-top: 40px;
+}
+
+.stylish-section__textarea h2 {
+  font-size: 50px;
+  padding-top: 40px;
+}
+
+.stylish-section__textarea p {
+  font-size: 26px;
+  padding-top: 46px;
+}
+
+.stylish-section__image {
+  position: relative;
+  width: 768px;
+}
+
+.stylish-section__image img {
+  position: absolute;
+  right: -35px;
+}
+
+.stylish-section__frame {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 86px;
+}
+
+.item__image {
+  width: 60px;
+  margin: 0 auto;
+}
+
+.frame__item {
+  width: 15%;
+}
+
+.frame__item p {
+  font-size: 10px;
+  display: inline-block;
+  text-align: center;
+  padding-top: 15px;
+}

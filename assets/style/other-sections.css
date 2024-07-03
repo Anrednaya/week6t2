@@ -1,0 +1,31 @@
+.landingpages-section {
+  margin-bottom: 200px;
+}
+
+.company-section {
+  margin-bottom: 101px;
+}
+
+.CMSpages-section {
+  margin-bottom: 130px;
+}
+
+.utility-section {
+  margin-bottom: 173px;
+}
+
+.signboard {
+  display: inline-block;
+  padding: 6px 100px 14px 30px;
+  margin-bottom: 60px;
+  font-size: 36px;
+  background-color: black;
+  color: white;
+}
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 46px;
+  row-gap: 78px;
+}
